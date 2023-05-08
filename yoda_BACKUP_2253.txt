@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+No try there is, do or do not.
+=======
+DO OR DO NOT, THERE IS NO TRY.
+>>>>>>> 1c62c94 (Change yoda.txt in feature-rename-files branch)
